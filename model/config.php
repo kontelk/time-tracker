@@ -6,8 +6,8 @@
  */
 
 $host       = "127.0.0.1";
-$username   = "user";
-$password   = "user";
+$username   = "root";
+$password   = "Qwerty!23";
 $dbname     = "tracker";
 $dsn        = "mysql:host=$host;dbname=$dbname";
 $options    = array(
